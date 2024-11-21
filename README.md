@@ -1,1 +1,1 @@
-# Git-3
+# Il est complètement awesome ce projet.
